@@ -7,10 +7,7 @@ import 'package:flutter_appli/travail.dart';
 void main() {
   runApp(
    const MaterialApp( 
-     // home: Monexo(),
-    // home:Cona(),
-     home:Nouveau(),
-    // home:Annexe(),
+    home:Nouveau(),
      
       debugShowCheckedModeBanner: false,
     ),
